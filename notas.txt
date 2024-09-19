@@ -1,3 +1,7 @@
 https://www.okta.com/identity-101/dto/
 
 https://express-validator.github.io/docs/
+
+En domain van las reglas
+
+Repositorios llaman a los datasources
