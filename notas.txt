@@ -5,3 +5,8 @@ https://express-validator.github.io/docs/
 En domain van las reglas
 
 Repositorios llaman a los datasources
+https://gist.github.com/Klerith/98d7b1bc0f1525e892f260813cad1007
+
+https://www.prisma.io/docs/guides/development-environment/environment-variables/using-multiple-env-files
+
+testing en al menos el 70% de la ruta critica
